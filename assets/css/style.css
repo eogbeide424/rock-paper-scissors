@@ -1,0 +1,18 @@
+*{
+
+}
+h1{
+    font-size: 75px;
+
+}
+
+section {
+    border: 5px solid black;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    margin-top: 30vh;
+    padding: 50px;
+}
+
+  
